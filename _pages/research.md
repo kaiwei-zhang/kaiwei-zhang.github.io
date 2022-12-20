@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I work on microeconomic theory, with a particular interest in robust mechanism design, information disclosure, and decision theory.
+I work on applied microeconomic theory and information system.
 
 ## Working papers
 1. "Optimal Pricing Schemes in the Presence of Social Learning and Costly Reporting", with *Xi Weng* [PDF](https://arxiv.org/abs/2211.07362)
