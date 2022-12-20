@@ -1,3 +1,10 @@
+---
+permalink: /
+title: "About"
+excerpt: "About me"
+author_profile: true
+---
+
 ## My research
 I mainly work on applied microeconomic theory, with a particular interest in dynamic learning and tournament design. I'm also interested in behavior topics like loss aversion (especially with expectations-based reference points). 
 
