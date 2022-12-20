@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is some notes useful.
+Occasionally when I need to summarize some literature or technique and cannot find suitable material, I will write some myself. Due to the rush of time, there may be some materials in Chinese. Here is some notes useful.
