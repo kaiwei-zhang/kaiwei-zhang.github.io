@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Longjian Li"
+title                    : "Kaiwe Zhang"
 title_separator          : "-"
-name                     : &name "Longjian Li"
+name                     : &name "Kaiwe Zhang"
 description              : &description "personal description"
 url                      : https://longjianli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "longjianli/longjianli.github.io"
+repository               : "kaiwei-zhang/kaiweizhang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Longjian Li"
+  name             : "Kaiwe Zhang"
   avatar           : "IMG_0557.jpg"
-  bio              : "Undergraduate Student"
+  bio              : "Graduate Student"
   location         : "Beijing, China"
   employer         : "Peking University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            : "ljliecon@gmail.com"
+  email            : "ypzkw@pku.edu.cn"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "longjianli"
+  github           : "kaiwei-zhang"
   google_plus      :
   keybase          :
   instagram        :
