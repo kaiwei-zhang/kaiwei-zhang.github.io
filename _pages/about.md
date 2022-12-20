@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a graduate student at the [Guanghua School of Management, Peking University](https://en.nsd.pku.edu.cn/](https://en.gsm.pku.edu.cn/). Before that I graduate from [Yuanpei College, Peking University](https://yuanpei.pku.edu.cn/en/). I was born in [Pingyao, Shanxi](https://en.wikipedia.org/wiki/Pingyao) and speak Chinese and English.
+I am currently a graduate student at the [Guanghua School of Management, Peking University](https://en.gsm.pku.edu.cn/). Before that I graduate from [Yuanpei College, Peking University](https://yuanpei.pku.edu.cn/en/). I was born in [Pingyao, Shanxi](https://en.wikipedia.org/wiki/Pingyao) and speak Chinese and English.
 
 ## My research
 I mainly work on applied microeconomic theory, with a particular interest in dynamic learning and tournament design. I'm also interested in behavior topics like loss aversion (especially with expectations-based reference points). 
