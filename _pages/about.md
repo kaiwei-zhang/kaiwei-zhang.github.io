@@ -1,8 +1,11 @@
 ---
 permalink: /
-title: "Home"
+title: "About"
+excerpt: "About me"
 author_profile: true
-
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am currently a graduate student at the [Guanghua School of Management, Peking University](https://en.gsm.pku.edu.cn/). Before that I graduate from [Yuanpei College, Peking University](https://yuanpei.pku.edu.cn/en/). I was born in [Pingyao, Shanxi](https://en.wikipedia.org/wiki/Pingyao) and speak Chinese and English.
