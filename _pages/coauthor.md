@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Co-Authors"
-permalink: /coauthor/
+permalink: /coauthors/
 author_profile: true
 ---
 
