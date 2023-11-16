@@ -11,7 +11,7 @@ I work on applied microeconomic theory and information system.
 
 ## Working papers
 1. "Optimal Pricing Schemes in the Presence of Social Learning and Costly Reporting", with *Xi Weng* and *Xienan Cheng* [PDF](https://arxiv.org/abs/2211.07362)
-2. "Subjective Evaluation and Team Production with Expectation-Based Loss-Averse Players", with *Zenan Wu*
+2. "Subjective Evaluation and Team Production with Expectation-Based Loss-Averse Players"
 
 ## Works in Progress
 1. "Does ad experiments Help Improving Performance?" , with *Alex (Chong) Wang, Hongju Liu*
