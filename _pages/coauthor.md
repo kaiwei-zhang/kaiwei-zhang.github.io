@@ -17,6 +17,8 @@ I collaborated on papers with the following very good researchers:
 
 [Ji Shen](https://en.gsm.pku.edu.cn/faculty/jishen/)
 
+[Liangfei Qiu](https://sites.google.com/site/qiuliangfei/)
+
 [Hongju Liu](https://en.gsm.pku.edu.cn/faculty/hliu/)
 
 [Xienan Cheng](https://sites.google.com/view/xienan-cheng)
