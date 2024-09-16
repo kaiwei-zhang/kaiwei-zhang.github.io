@@ -14,11 +14,11 @@ main:
   - title: "Notes"
     url: /notes/
 
-  - title: "Links"
-    url: /links/
+#  - title: "Links"
+#   url: /links/
 
-  - title: "Co-Authors"
-    url: /coauthors/
+#  - title: "Co-Authors"
+#    url: /coauthors/
 
 #  - title: "Talks"
 #    url: /talks/    
