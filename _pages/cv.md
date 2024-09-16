@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find My CV (updated Oct 9th 2023) [here](https://drive.google.com/file/d/1fdHshWUYZyWyZhaI2jqyCpAUZ6eq92JY/view?usp=drive_link)
+You can find My CV (updated Oct 9th 2023) [here](https://drive.google.com/file/d/1K2d7NKK4bb-rZ6Eu7ABjhJ6kRFDzHHkT/view?usp=share_link)
 
 
 
